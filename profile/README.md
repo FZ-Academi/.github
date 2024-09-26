@@ -16,7 +16,7 @@
     </tr>
     <tr align="center">
         <td colspan="3">
-            <a href="https://github.com/orgs/FZ-Academi/projects/1"> DashBoard</a>
+            <a href="https://github.com/orgs/FZ-Academi/projects/2"> DashBoard</a>
         </td>
     </tr>
 </table>
